@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_frame_one"
+        icon="@drawable/ic_frame"
+        title="Frame 1" />
+    <tab
+        id="@+id/tab_frame_two"
+        icon="@drawable/ic_frame"
+        title="Frame 2" />
+</tabs>
